@@ -3,7 +3,7 @@ Contributors: erezs
 Donate link: https://smartarget.online
 Tags: whatsapp, whatsapp chat, whatsapp woocommerce, whatsapp elementor, whatsapp button, email, instagram, tiktok, facebook, viber, wechat, line
 Requires at least: 3.0.1
-Tested up to: 6.6.1
+Tested up to: 6.7
 Requires PHP: 5.2.4
 Stable tag: 1.4
 License: GPLv2 or later
