@@ -3,9 +3,9 @@ Contributors: erezs
 Donate link: https://smartarget.online
 Tags: whatsapp, whatsapp chat, whatsapp woocommerce, whatsapp elementor, whatsapp button, email, instagram, tiktok, facebook, viber, wechat, line
 Requires at least: 3.0.1
-Tested up to: 6.7
+Tested up to: 6.8.1
 Requires PHP: 5.2.4
-Stable tag: 1.4
+Stable tag: 1.5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,7 +37,7 @@ Use our communication feeatures and allow your users to contact you easily by Wh
 - Get more TikTok subscribers.
 - Get more Instagram subscribers.
 - Get more Facebook subscribers.
-- Social Proof Sales - Make users think that there`re currently on going sales in the website.
+- Social Proof - Show previous sales notifications.
 - FAQ - Provide answers and increase user`s trust in your website.
 - Promote special offers with corner ribbon.
 - Add click to call button on your site!.
