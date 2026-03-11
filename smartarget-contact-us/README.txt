@@ -3,9 +3,9 @@ Contributors: erezs
 Donate link: https://smartarget.online
 Tags: whatsapp, chat, popup, reviews, faq
 Requires at least: 3.0.1
-Tested up to: 6.8.1
+Tested up to: 6.9.1
 Requires PHP: 5.2.4
-Stable tag: 1.5.3
+Stable tag: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
