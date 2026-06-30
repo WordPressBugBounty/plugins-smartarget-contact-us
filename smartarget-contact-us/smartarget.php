@@ -16,7 +16,7 @@
  * Plugin Name:       Smartarget.online Integration
  * Plugin URI:        https://smartarget.online
  * Description:       Whatsapp Chat, Telegram, Viber, Instagram, Popup and more apps to increase your sales and user engagement.
- * Version:           1.5.3
+ * Version:           1.6
  * Author:            Smartarget
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
